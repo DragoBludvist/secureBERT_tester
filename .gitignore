@@ -1,0 +1,31 @@
+# Data files
+data/
+*.csv
+*.json
+*.jsonl
+
+# Model weights
+model/
+*.bin
+*.pt
+*.pth
+*.safetensors
+
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# System
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
